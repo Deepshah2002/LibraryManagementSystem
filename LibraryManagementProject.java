@@ -270,7 +270,7 @@ public class LibraryManagementProject{
                     returnBook(arr, issuerArr, issuerArrPointer);
                 }
                 case 5 -> showBook(arr);
-                case 6 -> System.out.println("AAV JO");
+                case 6 -> System.out.println("Exitting.");
                 default -> System.out.println("Enter Valid Choice");
             }
         }
